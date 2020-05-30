@@ -1,0 +1,496 @@
+body{
+    background-color: #f7f7f7;
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('CaveatBold.ttf');  
+}
+
+.fon{
+    height: 50px;
+    background-color: #101416;
+    display: flex;
+    justify-content:center;
+    
+}
+.fa-map-marker-alt{
+    color:#f2a93f;
+    font-size: 25px;
+
+}
+.fa-phone{
+    color:#f2a93f;
+    font-size: 25px;
+margin-left: 250px;
+    margin-top: 10px;
+}
+.cont{ 
+    flex-wrap: nowrap;
+ display: flex; 
+ height: 100px; 
+ justify-content:center;
+        text-decoration: none;
+
+ transition: 1s;
+        font-family: 'Caveat';
+
+} 
+.menu{
+font-family: 'Caveat';
+transition: 1s;
+    text-decoration: none;
+   text-shadow: 2px 9px 5px rgba(206,194,194,0.95);
+
+ color:#f2a93f; 
+ font-size: 60px; 
+} 
+.contact{ 
+    transition: 1s;
+    text-shadow: 2px 9px 5px rgba(206,194,194,0.95);
+
+ color:#f2a93f; 
+        text-decoration: none;
+
+ font-size: 60px; 
+        margin-left: 30px;
+
+} 
+.ofus{ 
+    text-shadow: 2px 9px 5px rgba(206,194,194,0.95);
+        text-decoration: none;
+
+    transition: 1s;
+
+ color:#f2a93f; 
+ font-size: 60px; 
+    margin-left: 30px;
+}
+.otz{ 
+    text-shadow: 2px 9px 5px rgba(206,194,194,0.95);
+        text-decoration: none;
+
+    transition: 1s;
+
+ color:#f2a93f; 
+ font-size: 60px; 
+    margin-left: 30px;
+}
+.img{
+    background-image: url(58d15135064637.56e85b1aea175.png);
+    height: 250px;
+    width: 350px;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    
+}
+.menu:hover{
+    color:;
+    transform: scale(1.1, 1.1);
+}
+.ofus:hover{
+    transform: scale(1.1, 1.1);}
+.otz:hover{
+    transform: scale(1.1, 1.1);
+
+}
+.contact:hover{
+        transform: scale(1.1, 1.1);
+
+}
+.fon2{
+    background-color: #fef7ed;
+    width: 100%;
+    height: 2500px;
+}
+.bluda{
+    display: flex;
+    width: 100%;
+    font-family: 'Caveat';
+    justify-content: center;
+
+}
+.pizza{
+font-size: 40px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+            margin-top: 20px;
+        transition: 1s;
+     text-decoration: none;
+    color: black;
+
+
+}
+.Pasta{
+font-size: 40px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+        margin-left: 30px;
+            margin-top: 20px;
+        transition: 1s;
+     text-decoration: none;
+    color: black;
+
+
+
+}
+.Zakuski{
+font-size: 40px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+    margin-left: 30px;
+            margin-top: 20px;
+        transition: 1s;
+     text-decoration: none;
+    color: black;
+
+
+}
+.Salaty{
+font-size: 40px;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+        margin-left: 30px;
+            margin-top: 20px;
+    transition: 1s;
+    text-decoration: none;
+    color: black;
+
+
+}
+.pizza:hover{
+    background-color: burlywood;
+}
+.Pasta:hover{
+    background-color: burlywood;
+}
+.Zakuski:hover{
+    background-color: burlywood;
+}
+.Salaty:hover{
+    background-color: burlywood;
+}
+.bluda2{
+    display: block;
+    width: 10px;;
+    
+}
+
+.nd{
+ color:#f2a93f; 
+ font-size: 60px; 
+    font-family: "caveat";
+    text-align: center;
+    margin: 0 auto;
+}
+.pizzza{
+ color:#f2a93f; 
+ font-size: 60px; 
+    font-family: "caveat";
+    text-align: center;
+    margin: 0 auto;
+}
+.ndd{
+ color:#f2a93f; 
+ font-size: 60px; 
+    font-family: "caveat";
+    text-align: center;
+    margin: 0 auto;
+}
+.nddd{
+ color:#f2a93f; 
+ font-size: 60px; 
+    font-family: "caveat";
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.bl1{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    margin-right: 50px;
+    background-image: url(pitstsa-chetyre-syra-209.jpg);
+    background-position: center;
+}
+.naz1{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+
+.bl2{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    background-image: url(pitstsa-argarita-210.jpg);
+    background-position: center;
+}
+.naz2{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+.blp{
+    display: flex;
+    width: auto;
+    margin: 0 auto;
+justify-content: center
+}
+
+
+
+
+
+
+
+
+
+
+
+.bl3{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    margin-right: 50px;
+    background-image: url(pasta-karbonara-152.jpg);
+    background-position: center;
+}
+.naz3{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+
+.bl4{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    background-image: url(pasta-karbonara1-153.jpg);
+    background-position: center;
+}
+.naz4{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+.blp{
+    display: flex;
+    width: auto;
+    margin: 0 auto;
+justify-content: center
+}
+
+
+
+
+
+
+
+
+
+
+.bl5{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    margin-right: 50px;
+    background-image: url(set-zakusok-dlya-bolshoj-kompanii-69.jpg);
+    background-position: center;
+}
+.naz5{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+
+.bl6{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    background-image: url(syrnye-shariki-s-chesnochnym-sousom-74.jpg);
+    background-position: center;
+}
+.naz6{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+.blp{
+    display: flex;
+    width: auto;
+    margin: 0 auto;
+justify-content: center
+}
+
+
+
+
+
+
+
+
+
+
+.bl7{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    margin-right: 50px;
+    background-image: url(salat-olive-s-kuritsej-112.jpg);
+    background-position: center;
+}
+.naz7{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+
+.bl8{
+background-color: white;
+    width: 450px;
+    height: 450px;
+    background-image: url(salat-rukkola-s-krevetkami-115.jpg);
+    background-position: center;
+}
+.naz8{
+    width: auto;
+    line-height: 1;
+margin-top: 10px;
+    margin-right: 20px;
+    font-size: 29px;
+    font-family: "caveat";
+    background-color: white;
+    opacity: 0.9;   
+}
+.blp{
+    display: flex;
+    width: auto;
+    margin: 0 auto;
+justify-content: center
+}
+
+
+
+footer{
+    margin:0;	
+    height: 160px;
+    background-color: #101416; 
+    background-position: bottom;
+    background-attachment: fixed;
+}
+
+.fa-instagram{
+    font-size: 100px;
+    color: white;
+    margin-left: 45%;
+        transition: 1s;
+
+}
+.fa-vk{
+        font-size: 100px;
+    color: white;
+    margin-left: 40px;
+    transition: 1s;
+}
+
+
+.fa-instagram:hover{
+    color: #f1795c;
+}
+.fa-vk:hover{
+    color: #4a76a8;
+}
+
+.txt{
+    font-family: "caveat";
+    font-size: 40px;
+}
+.fon3{
+    background-color: #fef7ed;
+    width: 100%;
+    height: 500px;
+}
+header{
+margin:0;
+}
+.otzcont{
+    margin: 0 auto;
+    width: 1300px;
+    justify-content:center;
+    display: flex;
+    margin-top: 40px;
+    
+}
+.otz1{
+    margin-left: 40px;
+    width: 350px;
+    height: 450px;
+    background-color: white;
+    margin:0 auto;
+    
+    
+}
+.zag1{
+    font-family: "Caveat";
+    color:#f2a93f; 
+    font-size: 50px;
+    text-align: center;
+    
+
+}
+
+.otzt1{
+    font-size: 20px;
+    text-align: center;
+    margin: 40px;
+    margin-top: 0;
+    color: darkgray
+}
+
+
